@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Chromium Theme by abdobngad",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/two_chromes.jpg"
+    },
+    "colors": {
+      "frame": [175, 207, 235],
+      "toolbar": [23, 78, 166],
+      "toolbar_button_icon": [250, 250, 250],
+      "toolbar_text": [250, 250, 250],
+      "button_background": [25, 118, 210],
+      "background_tab": [175, 207, 235]
+    }
+  }
+}
